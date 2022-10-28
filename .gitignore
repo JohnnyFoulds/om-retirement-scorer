@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom ignores
+ex01_02_auto_ml.pkl
+output_data.csv
